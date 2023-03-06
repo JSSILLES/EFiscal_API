@@ -1,0 +1,16 @@
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\bin\Debug\ANTT.EFISCAL.Services.Spec.dll
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\bin\Debug\ANTT.EFISCAL.Services.Spec.pdb
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\bin\Debug\ANTT.Framework.Services.dll
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\obj\Debug\ANTT.EFISCAL.Services.Spec.csproj.AssemblyReference.cache
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\obj\Debug\ANTT.EFISCAL.Services.Spec.csproj.CoreCompileInputs.cache
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\obj\Debug\ANTT.EFISCAL.Services.Spec.csproj.CopyComplete
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\obj\Debug\ANTT.EFISCAL.Services.Spec.dll
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\obj\Debug\ANTT.EFISCAL.Services.Spec.pdb
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\bin\Debug\ANTT.EFISCAL.Services.Spec.dll
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\bin\Debug\ANTT.EFISCAL.Services.Spec.pdb
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\bin\Debug\ANTT.Framework.Services.dll
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\obj\Debug\ANTT.EFISCAL.Services.Spec.csproj.AssemblyReference.cache
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\obj\Debug\ANTT.EFISCAL.Services.Spec.csproj.CoreCompileInputs.cache
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\obj\Debug\ANTT.EFISCAL.Services.Spec.csproj.CopyComplete
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\obj\Debug\ANTT.EFISCAL.Services.Spec.dll
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Services.Spec\obj\Debug\ANTT.EFISCAL.Services.Spec.pdb

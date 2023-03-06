@@ -1,0 +1,2 @@
+﻿USE BD_ASCOM
+GO

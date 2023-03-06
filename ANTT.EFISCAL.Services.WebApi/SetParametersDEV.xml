@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+	<setParameter name="ANTT.Framework.CrossCutting.Ioc.ContainerType" value="ANTT.Framework.CrossCutting.Ioc.SI.WebApi.SimpleInjectorContainerWebApi, ANTT.Framework.CrossCutting.Ioc.SI.WebApi" />
+	<!--<setParameter name="EndpointOuvidoriaMensagemSL" value="http://appdevinter/ouvidoria/ServiceLayer/MensagemSL.svc" />
+	<setParameter name="EndpointOuvidoriaClassificacaoSL" value="http://appdevinter/ouvidoria/ServiceLayer/ClassificacaoSL.svc" />
+	<setParameter name="EndpointOuvidoriaTipoPessoaSL" value="http://appdevinter/ouvidoria/ServiceLayer/TipoPessoaSL.svc" />
+	<setParameter name="EndpointOuvidoriaArquivoHashSL" value="http://appdevinter/ouvidoria/ServiceLayer/ArquivoHashSL.svc" />
+	<setParameter name="EndpointOuvidoriaUFSL" value="http://appdevinter/ouvidoria/ServiceLayer/UFSL.svc" />-->
+</parameters>

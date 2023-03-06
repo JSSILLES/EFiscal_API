@@ -1,0 +1,25 @@
+﻿.caret {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 2px;
+    vertical-align: middle;
+    border-width: 5px 4px 0 4px !important;
+    border-top: 4px dashed;
+    border-top: 4px solid \9;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+    float: right;
+    margin-top: 11px;
+    margin-right: -6px;
+}
+
+.dropdown-menu.show {
+    will-change: transform;
+    min-width: 20rem !important;
+    transform: translate3d(40px, -97px, 0px) !important;
+}
+
+.multiselect-selected-text {
+    color: #444;
+}

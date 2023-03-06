@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+	<parameter name="webpages:Version" defaultvalue="3.0.0.0" description="webpages:Version description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='webpages:Version']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="webpages:Enabled" defaultvalue="false" description="webpages:Enabled description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='webpages:Enabled']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="ClientValidationEnabled" defaultvalue="true" description="ClientValidationEnabled description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='ClientValidationEnabled']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="UnobtrusiveJavaScriptEnabled" defaultvalue="true" description="UnobtrusiveJavaScriptEnabled description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='UnobtrusiveJavaScriptEnabled']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="ANTT.Framework.CrossCutting.Ioc.ContainerType" defaultvalue="ANTT.Framework.CrossCutting.Ioc.SI.MVC.SimpleInjectorContainerMVC, ANTT.Framework.CrossCutting.Ioc.SI.MVC" description="ANTT.Framework.CrossCutting.Ioc.ContainerType description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='ANTT.Framework.CrossCutting.Ioc.ContainerType']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="ANTT.Framework.Integration.SCA.Sistema" defaultvalue="EFISCAL" description="ANTT.Framework.Integration.SCA.Sistema description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='ANTT.Framework.Integration.SCA.Sistema']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="ANTT.Framework.Integration.SCA.Ambiente" defaultvalue="DSV" description="ANTT.Framework.Integration.SCA.Ambiente description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='ANTT.Framework.Integration.SCA.Ambiente']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="ANTT.Framework.Integration.NovoSCA.BaseAddress" defaultvalue="https://scaext-dev.antt.gov.br" description="ANTT.Framework.Integration.NovoSCA.BaseAddress description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='ANTT.Framework.Integration.NovoSCA.BaseAddress']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="ANTT.Framework.Integration.NovoSCA.AppClientId" defaultvalue="ascom_antt_dev" description="ANTT.Framework.Integration.NovoSCA.AppClientId description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='ANTT.Framework.Integration.NovoSCA.AppClientId']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="ANTT.Framework.Integration.NovoSCA.CAllBackUrl" defaultvalue="http://ascom-dev.antt.gov.br/auth/callback" description="ANTT.Framework.Integration.NovoSCA.CAllBackUrl description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='ANTT.Framework.Integration.NovoSCA.CAllBackUrl']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="ANTT.Framework.Integration.NovoSCA.AppPassword" defaultvalue="123456" description="ANTT.Framework.Integration.NovoSCA.AppPassword description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='ANTT.Framework.Integration.NovoSCA.AppPassword']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="FileServerUploadTemporaryFolder" defaultvalue="~/App_Data" description="FileServerUploadTemporaryFolder description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='FileServerUploadTemporaryFolder']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="FileServerUploadFolder" defaultvalue="\\stgantt03\arquivosSistemas\dev\ascom\aplicacao\" description="UrlPortalSistemas description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='FileServerUploadFolder']/@value" scope="\\web.config$" />
+	</parameter>
+</parameters>

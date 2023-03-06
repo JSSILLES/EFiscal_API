@@ -1,0 +1,15 @@
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Database\bin\Debug\ANTT.EFISCAL.Database.dacpac
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Database\bin\Debug\ANTT.EFISCAL.Database.dll
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Database\bin\Debug\ANTT.EFISCAL.Database.pdb
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Database\obj\Debug\Model.xml
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Database\obj\Debug\refactor.xml
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Database\obj\Debug\postdeploy.sql
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Database\obj\Debug\predeploy.sql
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Database\obj\Debug\ANTT.EFISCAL.Database.dll
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Database\obj\Debug\ANTT.EFISCAL.Database.pdb
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Database\bin\Debug\ANTT.EFISCAL.Database.dacpac
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Database\bin\Debug\ANTT.EFISCAL.Database.dll
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Database\bin\Debug\ANTT.EFISCAL.Database.pdb
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Database\obj\Debug\ANTT.EFISCAL.Database.sqlproj.AssemblyReference.cache
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Database\obj\Debug\ANTT.EFISCAL.Database.dll
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Database\obj\Debug\ANTT.EFISCAL.Database.pdb

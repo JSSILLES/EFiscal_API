@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5C965A1A-AEAF-400D-A13C-B512863A1EC9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ANTT.EFISCAL.Domain.Impl</RootNamespace>
+    <AssemblyName>ANTT.EFISCAL.Domain.Impl</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ANTT.Framework.CrossCutting">
+      <HintPath>..\packages\ANTT.Framework.CrossCutting.2019.1.8.1\lib\net462\ANTT.Framework.CrossCutting.dll</HintPath>
+    </Reference>
+    <Reference Include="ANTT.Framework.Domain">
+      <HintPath>..\packages\ANTT.Framework.Domain.2019.1.8.1\lib\net462\ANTT.Framework.Domain.dll</HintPath>
+    </Reference>
+    <Reference Include="ANTT.Framework.Reporting">
+      <HintPath>..\packages\ANTT.Framework.Reporting.2019.1.8.1\lib\net462\ANTT.Framework.Reporting.dll</HintPath>
+    </Reference>
+    <Reference Include="ANTT.Framework.Repositories">
+      <HintPath>..\packages\ANTT.Framework.Repositories.2019.1.8.1\lib\net462\ANTT.Framework.Repositories.dll</HintPath>
+    </Reference>
+    <Reference Include="ANTT.Framework.Templating">
+      <HintPath>..\packages\ANTT.Framework.Templating.2019.1.8.1\lib\net462\ANTT.Framework.Templating.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.4.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DomainServices\AcessoDomainService.cs" />
+    <Compile Include="DomainServices\LinkDomainService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ANTT.EFISCAL.Domain.Spec\ANTT.EFISCAL.Domain.Spec.csproj">
+      <Project>{67658258-8a3a-4352-87e7-9a6f13cfa6ec}</Project>
+      <Name>ANTT.EFISCAL.Domain.Spec</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ANTT.EFISCAL.Integration.Spec\ANTT.EFISCAL.Integration.Spec.csproj">
+      <Project>{61308150-c6b8-4cd7-aeb3-b8d89b539ed0}</Project>
+      <Name>ANTT.EFISCAL.Integration.Spec</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ANTT.EFISCAL.Repositories.Spec\ANTT.EFISCAL.Repositories.Spec.csproj">
+      <Project>{8bf4d7ad-2d54-412a-8619-c2542b170725}</Project>
+      <Name>ANTT.EFISCAL.Repositories.Spec</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

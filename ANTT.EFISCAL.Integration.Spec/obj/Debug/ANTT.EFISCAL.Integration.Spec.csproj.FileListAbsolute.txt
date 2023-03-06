@@ -1,0 +1,12 @@
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Integration.Spec\bin\Debug\ANTT.EFISCAL.Integration.Spec.dll
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Integration.Spec\bin\Debug\ANTT.EFISCAL.Integration.Spec.pdb
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Integration.Spec\obj\Debug\ANTT.EFISCAL.Integration.Spec.csproj.AssemblyReference.cache
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Integration.Spec\obj\Debug\ANTT.EFISCAL.Integration.Spec.csproj.CoreCompileInputs.cache
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Integration.Spec\obj\Debug\ANTT.EFISCAL.Integration.Spec.dll
+D:\Projetos\WebSis\ASCOM_EFISCAL\EFISCAL_WEB\ANTT.EFISCAL.Integration.Spec\obj\Debug\ANTT.EFISCAL.Integration.Spec.pdb
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Integration.Spec\bin\Debug\ANTT.EFISCAL.Integration.Spec.dll
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Integration.Spec\bin\Debug\ANTT.EFISCAL.Integration.Spec.pdb
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Integration.Spec\obj\Debug\ANTT.EFISCAL.Integration.Spec.csproj.AssemblyReference.cache
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Integration.Spec\obj\Debug\ANTT.EFISCAL.Integration.Spec.csproj.CoreCompileInputs.cache
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Integration.Spec\obj\Debug\ANTT.EFISCAL.Integration.Spec.dll
+C:\Users\jacqueline.silles\Desktop\EFISCAL-WEB\EFISCAL_WEB\ANTT.EFISCAL.Integration.Spec\obj\Debug\ANTT.EFISCAL.Integration.Spec.pdb

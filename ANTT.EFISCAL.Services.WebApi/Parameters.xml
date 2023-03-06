@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+	<parameter name="ANTT.Framework.CrossCutting.Ioc.ContainerType" defaultvalue="ANTT.Framework.CrossCutting.Ioc.SI.WebApi.SimpleInjectorContainerWebApi, ANTT.Framework.CrossCutting.Ioc.SI.WebApi" description="ANTT.Framework.CrossCutting.Ioc.ContainerType description." tags="">
+		<parameterentry kind="XmlFile" match="/configuration/appSettings/add[@key='ANTT.Framework.CrossCutting.Ioc.ContainerType']/@value" scope="\\web.config$" />
+	</parameter>
+	<parameter name="EndpointOuvidoriaMensagemSL" defaultvalue="http://appdevinter/ouvidoria/ServiceLayer/MensagemSL.svc" description="Endereço do Serviço de Mensagens do Ouvidoria" tags="">
+		<parameterentry kind="XmlFile" match="/configuration/system.serviceModel/client/endpoint[@name='BasicHttpBinding_IMensagemSL']/@address" scope="\\web.config$" />
+	</parameter>
+	<parameter name="EndpointOuvidoriaClassificacaoSL" defaultvalue="http://appdevinter/ouvidoria/ServiceLayer/ClassificacaoSL.svc" description="Endereço do Serviço de Classificação do Ouvidoria" tags="">
+		<parameterentry kind="XmlFile" match="/configuration/system.serviceModel/client/endpoint[@name='BasicHttpBinding_IClassificacaoSL']/@address" scope="\\web.config$" />
+	</parameter>
+
+	<parameter name="EndpointOuvidoriaTipoPessoaSL" defaultvalue="http://appdevinter/ouvidoria/ServiceLayer/TipoPessoaSL.svc" description="Endereço do Serviço de Tipo Pessoa do Ouvidoria" tags="">
+		<parameterentry kind="XmlFile" match="/configuration/system.serviceModel/client/endpoint[@name='BasicHttpBinding_ITipoPessoaSL']/@address" scope="\\web.config$" />
+	</parameter>
+	<parameter name="EndpointOuvidoriaArquivoHashSL" defaultvalue="http://appdevinter/ouvidoria/ServiceLayer/ArquivoHashSL.svc" description="Endereço do Serviço de Upload de Arquivos do Ouvidoria" tags="">
+		<parameterentry kind="XmlFile" match="/configuration/system.serviceModel/client/endpoint[@name='BasicHttpBinding_IArquivoHashSL']/@address" scope="\\web.config$" />
+	</parameter>
+	<parameter name="EndpointOuvidoriaUFSL" defaultvalue="http://appdevinter/ouvidoria/ServiceLayer/UFSL.svc" description="Endereço do Serviço de UF do Ouvidoria" tags="">
+		<parameterentry kind="XmlFile" match="/configuration/system.serviceModel/client/endpoint[@name='BasicHttpBinding_IUFSL']/@address" scope="\\web.config$" />
+	</parameter>
+</parameters>
